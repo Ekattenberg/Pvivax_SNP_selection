@@ -2,6 +2,7 @@
 
 This github contains an example jupyter notebook with python3 code and a second with R code to perform the SNP selection steps for a wihtin-country barcode for molecular surveillance as explained in the manuscript "Novel highly-multiplexed AmpliSeq targeted assay for Plasmodium vivax genetic surveillance use cases at multiple geographical scales" by Kattenberg et al. 2022. 
 
+The purpose of this repository is to be transparent in the analyses performed and to allow other to replicate the SNP selection procedures. 
 If you use the same SNP selection procedure, please cite our paper (publication details will follow as soon as accepted). 
 
 In brief the different steps for the SNP selection are: 
